@@ -1,0 +1,6 @@
+{
+  "name": "promociones/proyectocrud",
+  "require": {
+    "php": "^7.4"
+  }
+}
